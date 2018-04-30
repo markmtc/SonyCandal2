@@ -15,7 +15,7 @@
         {
             "label": "Run",
             "type": "shell",
-            "command": "c:/Dolphin-x64/Dolphin.exe -e ${workspaceFolder}/SonyCandal.dol"
+            "command": "c:/Dolphin-x64/Dolphin.exe -e ${workspaceFolder}/SonyCandal2.dol"
         }
     ]
 }

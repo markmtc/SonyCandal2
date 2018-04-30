@@ -22,7 +22,9 @@ void Game::handleEvents()
 {}
 
 void Game::update()
-{}
+{
+    printf("Hola Mundo!!");
+}
 
 void Game::render()
 {}
